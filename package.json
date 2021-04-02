@@ -4,8 +4,6 @@
   "description": "Node.js Upload/Import Excel files to MySQL Database and download Excel File",
   "main": "src/server.js",
   "scripts": {
-    "start" : "node server.js",
-    "start" : "node index.js",
     "start" : "node excel.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
